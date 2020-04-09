@@ -10,7 +10,7 @@
   // window.SITE_CONFIG['domain'] = 'https://platform-wxmall.oss-cn-beijing.aliyuncs.com/boot/' // 域名
   // window.SITE_CONFIG['domain'] = './' // 域名
   window.SITE_CONFIG['domain'] = 'http://static.cloudai.net/' // 域名
-  window.SITE_CONFIG['version'] = '2001182327'   // 版本号(年月日时分)
+  window.SITE_CONFIG['version'] = '2004092335'   // 版本号(年月日时分)
   window.SITE_CONFIG['cdnUrl'] = window.SITE_CONFIG.domain + window.SITE_CONFIG.version
 })()
 
